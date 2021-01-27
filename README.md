@@ -16,7 +16,7 @@ Those who want to sell their car or who want to buy a car can make transactions 
 We are excited to see your motivation to join our team. So, we are trying to the best way for recruitment.  If you have questions, you can ask us when you want or need help. If there is a problem, please don't hesitate contact to us.
 
 
-## Android Assigment ##
+## Android Assignment ##
 
 The purpose of this assignment is to create an app for Arabam's users and show them a list of adverts and show more details for each advert.
 
