@@ -82,10 +82,12 @@ Our development language is Kotlin but we have legacy Java classes. We are follo
 * Android Architecture Components
 * ViewModel
 * Paging
+* Flow
 * LiveData
 * DataBinding
-* Dagger Hilt
+* Hilt
 * Retrofit
+* Coroutine
 * RxJava
 * Room
 
